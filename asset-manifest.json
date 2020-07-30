@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b9ba990e.chunk.css",
+    "main.js": "/portfolio/static/js/main.1a7589b5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1a7589b5.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d37e6d79.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d37e6d79.js.map",
+    "static/js/2.801a461f.chunk.js": "/portfolio/static/js/2.801a461f.chunk.js",
+    "static/js/2.801a461f.chunk.js.map": "/portfolio/static/js/2.801a461f.chunk.js.map",
+    "static/css/3.48a93ee6.chunk.css": "/portfolio/static/css/3.48a93ee6.chunk.css",
+    "static/js/3.dadaac71.chunk.js": "/portfolio/static/js/3.dadaac71.chunk.js",
+    "static/js/3.dadaac71.chunk.js.map": "/portfolio/static/js/3.dadaac71.chunk.js.map",
+    "static/css/4.01c87591.chunk.css": "/portfolio/static/css/4.01c87591.chunk.css",
+    "static/js/4.fcebc514.chunk.js": "/portfolio/static/js/4.fcebc514.chunk.js",
+    "static/js/4.fcebc514.chunk.js.map": "/portfolio/static/js/4.fcebc514.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e1558c048bdf0623af3a1b2658beaff1.js": "/portfolio/precache-manifest.e1558c048bdf0623af3a1b2658beaff1.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.48a93ee6.chunk.css.map": "/portfolio/static/css/3.48a93ee6.chunk.css.map",
+    "static/css/4.01c87591.chunk.css.map": "/portfolio/static/css/4.01c87591.chunk.css.map",
+    "static/css/main.b9ba990e.chunk.css.map": "/portfolio/static/css/main.b9ba990e.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/codeaxesLogo.png": "/portfolio/static/media/codeaxesLogo.d9cf7abe.png",
+    "static/media/contactMail.webp": "/portfolio/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
+    "static/media/myphoto.jpg": "/portfolio/static/media/myphoto.a9c34e89.jpg",
+    "static/media/nlp.png": "/portfolio/static/media/nlp.c58d8ee6.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/speridian.png": "/portfolio/static/media/speridian.4c2d3949.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d37e6d79.js",
+    "static/js/2.801a461f.chunk.js",
+    "static/css/main.b9ba990e.chunk.css",
+    "static/js/main.1a7589b5.chunk.js"
+  ]
+}
