@@ -44,7 +44,7 @@ export default function Profile() {
           console.log(error);
           setProfileFunction("Error");
           console.log("Because of this Error Contact Section is Showed instead of Profile");
-          openSource.showGithubProfile = "false";
+          openSource.showGithubProfile = "true";
       });
   }
   useEffect(() => {
