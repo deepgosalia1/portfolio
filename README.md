@@ -1,5 +1,5 @@
 # Portfolio
-### [Visit this link to view my resume/Portfolio](deepgosalia1.github.io/portfolio)
+### [Visit this link to view my resume/Portfolio](https://deepgosalia1.github.io/portfolio/)
 
 My resume/CV/Portfolio
 
